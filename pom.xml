@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.syriana</groupId>
-	<artifactId>sso.oidc.srv</artifactId>
+	<artifactId>erp.usercenter.srv</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sso.oidc.srv</name>
-	<description>OIDC RESOURCE SERVER</description>
+	<name>erp.usercenter.srv</name>
+	<description>USER CENTER SERVER</description>
 
 	<properties>
 		<java.version>1.8</java.version>

@@ -1,4 +1,4 @@
-package com.syriana.sso.oidc.srv.response;
+package com.syriana.erp.usercenter.srv.response;
 
 /**
  * @author syriana.zh

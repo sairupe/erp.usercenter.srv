@@ -1,4 +1,4 @@
-package com.syriana.sso.oidc.srv;
+package com.syriana.erp.usercenter.srv;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

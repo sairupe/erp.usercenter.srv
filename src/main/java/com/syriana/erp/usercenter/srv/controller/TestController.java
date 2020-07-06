@@ -1,6 +1,6 @@
-package com.syriana.sso.oidc.srv.controller;
+package com.syriana.erp.usercenter.srv.controller;
 
-import com.syriana.sso.oidc.srv.response.UserResVo;
+import com.syriana.erp.usercenter.srv.response.UserResVo;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -23,7 +23,7 @@ public class TestController {
     public UserResVo getUser(Principal principal){
         UserResVo user = new UserResVo();
         user.setUserName(principal.getName());
-        user.setUserPwd("userPwd");
+        user.setUserPwd("erp.usercenter.srv - userPwd");
         return user;
     }
 

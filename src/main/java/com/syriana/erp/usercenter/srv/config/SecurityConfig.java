@@ -1,4 +1,4 @@
-//package com.syriana.sso.oidc.srv.config;
+//package com.syriana.erp.usercenter.srv.config;
 //
 //import org.springframework.context.annotation.Configuration;
 //import org.springframework.security.config.annotation.web.builders.HttpSecurity;
